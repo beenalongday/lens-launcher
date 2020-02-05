@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.background;
+package beenalongday.lenslauncher.background;
 
 import android.app.Application;
 import android.content.Context;
@@ -8,10 +8,10 @@ import android.os.AsyncTask;
 
 import java.util.ArrayList;
 
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.util.AppSorter;
-import nickrout.lenslauncher.AppsSingleton;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.util.AppSorter;
+import beenalongday.lenslauncher.AppsSingleton;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
  * Created by nicholasrout on 2016/06/23.

@@ -11,11 +11,11 @@ android {
 
 
     defaultConfig {
-        applicationId "nickrout.lenslauncher"
+        applicationId "beenalongday.lenslauncher"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 43
-        versionName "2.4.0_beenalongday"
+        versionCode 1
+        versionName "1"
     }
     buildTypes {
         release {

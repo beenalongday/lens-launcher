@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.animation.Animator;
 import android.os.Build;
@@ -20,11 +20,11 @@ import java.util.Observer;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.background.NightModeObservable;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.background.NightModeObservable;
 
 /**
- * Created by nickrout on 2016/04/06.
+ * Created by beenalongday on 2016/04/06.
  */
 public class AboutActivity extends BaseActivity implements Observer {
 

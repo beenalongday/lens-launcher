@@ -1,14 +1,14 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.RectF;
 import android.util.DisplayMetrics;
 
-import nickrout.lenslauncher.model.Grid;
+import beenalongday.lenslauncher.model.Grid;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class LensCalculator {
 

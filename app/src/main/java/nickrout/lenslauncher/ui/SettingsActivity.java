@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,17 +32,17 @@ import java.util.Observer;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.background.NightModeObservable;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.util.AppSorter;
-import nickrout.lenslauncher.AppsSingleton;
-import nickrout.lenslauncher.background.BroadcastReceivers;
-import nickrout.lenslauncher.util.IconPackManager;
-import nickrout.lenslauncher.util.LauncherUtil;
-import nickrout.lenslauncher.background.LoadedObservable;
-import nickrout.lenslauncher.util.NightModeUtil;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.background.NightModeObservable;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.util.AppSorter;
+import beenalongday.lenslauncher.AppsSingleton;
+import beenalongday.lenslauncher.background.BroadcastReceivers;
+import beenalongday.lenslauncher.util.IconPackManager;
+import beenalongday.lenslauncher.util.LauncherUtil;
+import beenalongday.lenslauncher.background.LoadedObservable;
+import beenalongday.lenslauncher.util.NightModeUtil;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
  * Created by nicholasrout on 2016/06/07.

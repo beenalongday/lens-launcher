@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <nickrout.lenslauncher.ui.LensView
+    <beenalongday.lenslauncher.ui.LensView
         android:id="@+id/lens_view_apps"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

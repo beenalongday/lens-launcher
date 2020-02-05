@@ -1,12 +1,12 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.model.AppPersistent;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.AppPersistent;
 
 /**
  * Created by nicholasrout on 2016/05/28.

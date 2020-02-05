@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.support.v7.app.AppCompatDelegate;
 

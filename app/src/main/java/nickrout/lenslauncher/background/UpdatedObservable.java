@@ -1,9 +1,9 @@
-package nickrout.lenslauncher.background;
+package beenalongday.lenslauncher.background;
 
 import java.util.Observable;
 
 /**
- * Created by nickrout on 2016/04/08.
+ * Created by beenalongday on 2016/04/08.
  */
 public class UpdatedObservable extends Observable {
     private static UpdatedObservable instance = new UpdatedObservable();

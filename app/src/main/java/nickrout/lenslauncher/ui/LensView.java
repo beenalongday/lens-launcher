@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
@@ -23,16 +23,16 @@ import android.view.animation.Transformation;
 
 import java.util.ArrayList;
 
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.model.AppPersistent;
-import nickrout.lenslauncher.model.Grid;
-import nickrout.lenslauncher.util.AppUtil;
-import nickrout.lenslauncher.util.LensCalculator;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.AppPersistent;
+import beenalongday.lenslauncher.model.Grid;
+import beenalongday.lenslauncher.util.AppUtil;
+import beenalongday.lenslauncher.util.LensCalculator;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class LensView extends View {
 

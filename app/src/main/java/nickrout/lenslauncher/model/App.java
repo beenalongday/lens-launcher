@@ -1,10 +1,10 @@
-package nickrout.lenslauncher.model;
+package beenalongday.lenslauncher.model;
 
 import android.graphics.Bitmap;
 import android.support.annotation.ColorInt;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class App {
 

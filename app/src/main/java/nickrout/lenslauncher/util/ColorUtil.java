@@ -1,11 +1,11 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.support.annotation.ColorInt;
 import android.support.v7.graphics.Palette;
 
-import nickrout.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.App;
 
 /**
  * Created by nicholasrout on 2016/05/28.

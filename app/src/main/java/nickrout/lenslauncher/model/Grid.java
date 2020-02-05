@@ -1,7 +1,7 @@
-package nickrout.lenslauncher.model;
+package beenalongday.lenslauncher.model;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class Grid {
 

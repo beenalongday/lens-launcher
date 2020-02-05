@@ -10,8 +10,8 @@
         android:shortcutLongLabel="@string/activity_title_settings">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="nickrout.lenslauncher"
-            android:targetClass="nickrout.lenslauncher.ui.SettingsActivity" />
+            android:targetPackage="beenalongday.lenslauncher"
+            android:targetClass="beenalongday.lenslauncher.ui.SettingsActivity" />
     </shortcut>
 
     <shortcut
@@ -22,8 +22,8 @@
         android:shortcutLongLabel="@string/activity_title_apps">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="nickrout.lenslauncher"
-            android:targetClass="nickrout.lenslauncher.ui.HomeActivity" />
+            android:targetPackage="beenalongday.lenslauncher"
+            android:targetClass="beenalongday.lenslauncher.ui.HomeActivity" />
     </shortcut>
 
 </shortcuts>

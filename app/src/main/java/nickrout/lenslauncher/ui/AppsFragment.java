@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,13 +18,13 @@ import java.util.ArrayList;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import me.zhanghai.android.materialprogressbar.MaterialProgressBar;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.adapter.AppRecyclerAdapter;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.util.AppSorter;
-import nickrout.lenslauncher.AppsSingleton;
-import nickrout.lenslauncher.background.BroadcastReceivers;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.adapter.AppRecyclerAdapter;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.util.AppSorter;
+import beenalongday.lenslauncher.AppsSingleton;
+import beenalongday.lenslauncher.background.BroadcastReceivers;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
  * Created by nicholasrout on 2016/06/08.

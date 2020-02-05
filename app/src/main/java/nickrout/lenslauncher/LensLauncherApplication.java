@@ -1,14 +1,14 @@
-package nickrout.lenslauncher;
+package beenalongday.lenslauncher;
 
 import com.orm.SugarApp;
 
 import java.util.Observable;
 import java.util.Observer;
 
-import nickrout.lenslauncher.background.SortAppsTask;
-import nickrout.lenslauncher.background.EditedObservable;
-import nickrout.lenslauncher.background.UpdatedObservable;
-import nickrout.lenslauncher.background.UpdateAppsTask;
+import beenalongday.lenslauncher.background.SortAppsTask;
+import beenalongday.lenslauncher.background.EditedObservable;
+import beenalongday.lenslauncher.background.UpdatedObservable;
+import beenalongday.lenslauncher.background.UpdateAppsTask;
 
 /**
  * Created by nicholasrout on 2016/06/12.

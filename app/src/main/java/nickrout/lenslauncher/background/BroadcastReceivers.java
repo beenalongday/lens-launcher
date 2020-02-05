@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.background;
+package beenalongday.lenslauncher.background;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

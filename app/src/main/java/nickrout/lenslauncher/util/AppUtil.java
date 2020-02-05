@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.app.Application;
 import android.content.ActivityNotFoundException;
@@ -19,13 +19,13 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.background.BroadcastReceivers;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.model.AppPersistent;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.background.BroadcastReceivers;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.AppPersistent;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class AppUtil {
 
@@ -87,7 +87,7 @@ public class AppUtil {
             Intent componentIntent = new Intent();
             componentIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             componentIntent.setComponent(new ComponentName(packageName, name));
-            if (!packageName.equals("nickrout.lenslauncher")) {
+            if (!packageName.equals("beenalongday.lenslauncher")) {
                 componentIntent.setAction(Intent.ACTION_MAIN);
             }
             componentIntent.addCategory(Intent.CATEGORY_LAUNCHER);

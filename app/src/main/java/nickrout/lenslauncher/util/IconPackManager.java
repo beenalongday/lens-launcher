@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 /**
  * Created by rish on 22/5/16.
@@ -33,7 +33,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-import nickrout.lenslauncher.R;
+import beenalongday.lenslauncher.R;
 
 public class IconPackManager {
 

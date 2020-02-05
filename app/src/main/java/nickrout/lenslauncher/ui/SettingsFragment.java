@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -17,10 +17,10 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.util.LauncherUtil;
-import nickrout.lenslauncher.util.NightModeUtil;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.util.LauncherUtil;
+import beenalongday.lenslauncher.util.NightModeUtil;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
  * Created by nicholasrout on 2016/06/08.

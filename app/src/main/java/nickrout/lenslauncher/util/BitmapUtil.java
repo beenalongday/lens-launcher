@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -11,7 +11,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class BitmapUtil {
 

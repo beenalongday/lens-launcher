@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.adapter;
+package beenalongday.lenslauncher.adapter;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
@@ -22,12 +22,12 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.background.BroadcastReceivers;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.model.AppPersistent;
-import nickrout.lenslauncher.ui.SettingsActivity;
-import nickrout.lenslauncher.util.AppUtil;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.background.BroadcastReceivers;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.AppPersistent;
+import beenalongday.lenslauncher.ui.SettingsActivity;
+import beenalongday.lenslauncher.util.AppUtil;
 
 public class AppRecyclerAdapter extends RecyclerView.Adapter {
 
@@ -111,7 +111,7 @@ public class AppRecyclerAdapter extends RecyclerView.Adapter {
             } else {
                 mToggleAppVisibility.setImageResource(R.drawable.ic_visibility_off_grey_24dp);
             }
-            if (mApp.getPackageName().toString().equals("nickrout.lenslauncher")) {
+            if (mApp.getPackageName().toString().equals("beenalongday.lenslauncher")) {
                 mToggleAppVisibility.setVisibility(View.INVISIBLE);
             } else {
                 mToggleAppVisibility.setVisibility(View.VISIBLE);

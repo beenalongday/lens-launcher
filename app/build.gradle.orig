@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "nickrout.lenslauncher"
+        applicationId "beenalongday.lenslauncher"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 16

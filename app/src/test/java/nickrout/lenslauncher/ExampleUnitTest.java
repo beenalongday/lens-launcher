@@ -1,4 +1,4 @@
-package nickrout.lenslauncher;
+package beenalongday.lenslauncher;
 
 import org.junit.Test;
 

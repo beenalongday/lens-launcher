@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.annotation.TargetApi;
 import android.content.pm.PackageManager;
@@ -17,17 +17,17 @@ import java.util.Observer;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import me.zhanghai.android.materialprogressbar.MaterialProgressBar;
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.background.BackgroundChangedObservable;
-import nickrout.lenslauncher.background.NightModeObservable;
-import nickrout.lenslauncher.background.VisibilityChangedObservable;
-import nickrout.lenslauncher.model.App;
-import nickrout.lenslauncher.model.AppPersistent;
-import nickrout.lenslauncher.AppsSingleton;
-import nickrout.lenslauncher.background.LoadedObservable;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.background.BackgroundChangedObservable;
+import beenalongday.lenslauncher.background.NightModeObservable;
+import beenalongday.lenslauncher.background.VisibilityChangedObservable;
+import beenalongday.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.AppPersistent;
+import beenalongday.lenslauncher.AppsSingleton;
+import beenalongday.lenslauncher.background.LoadedObservable;
 
 /**
- * Created by nickrout on 2016/04/02.
+ * Created by beenalongday on 2016/04/02.
  */
 public class HomeActivity extends BaseActivity implements Observer {
 

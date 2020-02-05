@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <nickrout.lenslauncher.ui.LensView
+        <beenalongday.lenslauncher.ui.LensView
             android:id="@+id/lens_view_settings"
             android:layout_width="match_parent"
             android:layout_height="@dimen/height_lens_preview" />

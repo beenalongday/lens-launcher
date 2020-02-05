@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.model;
+package beenalongday.lenslauncher.model;
 
 import com.orm.SugarRecord;
 import com.orm.query.Condition;

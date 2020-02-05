@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nickrout.lenslauncher">
+    package="beenalongday.lenslauncher">
 
     <application
         android:name="com.orm.SugarApp"
@@ -24,7 +24,7 @@
             android:value="false" />
         <meta-data
             android:name="DOMAIN_PACKAGE_NAME"
-            android:value="nickrout.lenslauncher.model" />
+            android:value="beenalongday.lenslauncher.model" />
 
         <activity
             android:name=".ui.HomeActivity"

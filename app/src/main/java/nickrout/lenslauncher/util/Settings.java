@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.util;
+package beenalongday.lenslauncher.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;

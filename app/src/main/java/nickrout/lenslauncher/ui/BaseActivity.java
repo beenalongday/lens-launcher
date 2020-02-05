@@ -1,4 +1,4 @@
-package nickrout.lenslauncher.ui;
+package beenalongday.lenslauncher.ui;
 
 import android.app.ActivityManager;
 import android.graphics.Bitmap;
@@ -10,11 +10,11 @@ import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 
-import nickrout.lenslauncher.R;
-import nickrout.lenslauncher.util.Settings;
+import beenalongday.lenslauncher.R;
+import beenalongday.lenslauncher.util.Settings;
 
 /**
- * Created by nickrout on 2016/04/05.
+ * Created by beenalongday on 2016/04/05.
  */
 public class BaseActivity extends AppCompatActivity {
 

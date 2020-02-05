@@ -1,9 +1,9 @@
-package nickrout.lenslauncher;
+package beenalongday.lenslauncher;
 
 import android.graphics.Bitmap;
 
 import java.util.ArrayList;
-import nickrout.lenslauncher.model.App;
+import beenalongday.lenslauncher.model.App;
 
 /**
  * Created by nicholasrout on 2016/05/30.
