@@ -203,6 +203,7 @@ public class LensView extends View {
                     invalidate();
                     return true;
                 }
+		/** beenalongday remove icon resizer on move - create static lens launcher
                 case MotionEvent.ACTION_MOVE: {
                     if (!mMoving && Math.sqrt(Math.pow(event.getX() - mTouchX, 2) + Math.pow(event.getY() - mTouchY, 2)) > mTouchSlop) {
                         mMoving = true;
@@ -227,6 +228,7 @@ public class LensView extends View {
                     invalidate();
                     return true;
                 }
+		 */
                 case MotionEvent.ACTION_UP: {
                     performLaunchVibration();
                     if (mMoving) {
